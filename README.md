@@ -6,7 +6,7 @@
   <a href="https://scholar.google.com/citations?user=AEJgfq0AAAAJ&hl=en">Juncheng Dong</a><sup>*</sup> ·
   <a href="https://hlhsu.github.io/">Hao-Lun Hsu</a><sup>*</sup> ·
   <a href="https://people.duke.edu/~vt45/">Vahid Tarokh</a> ·
-  <a href="https://hlhsu.github.io/](https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
+  <a href="https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
 </p>
 <p align="center">
 Duke University (<sup>*</sup>indicates equal contribution)
