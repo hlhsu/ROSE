@@ -13,7 +13,7 @@ Duke University (<sup>*</sup>indicates equal contribution)
 </p>
 
 
-This repo contains code for training RL agents with adversarial disturbance agents in our work on Advancing the Robustness of Optimal Policies through Strategic Design of Adversaries. We build heavily on the OpenAI rllab repo and utilize the repo: ([RARL](https://github.com/lerrel/rllab-adv/tree/master) for baseline comparison. We also implement from the repo ([SVPG](https://github.com/montrealrobotics/active-domainrand) 
+This repo contains code for training RL agents with adversarial disturbance agents in our work on Variational Adversarial Training Towards Policies with Improved Robustness. We build heavily on the OpenAI rllab repo and utilize the repo: ([RARL](https://github.com/lerrel/rllab-adv/tree/master)) for baseline comparison. We also implement from the repo ([SVPG](https://github.com/montrealrobotics/active-domainrand)) 
 
 
 
