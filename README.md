@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=AEJgfq0AAAAJ&hl=en">Juncheng Dong</a><sup>*</sup> ·
   <a href="https://hlhsu.github.io/">Hao-Lun Hsu</a><sup>*</sup> ·
+  <a href="https://qitonggao.com">Qitong Gao</a> ·
   <a href="https://people.duke.edu/~vt45/">Vahid Tarokh</a> ·
   <a href="https://people.duke.edu/~mp275/">Miroslav Pajic</a> ·
 </p>
